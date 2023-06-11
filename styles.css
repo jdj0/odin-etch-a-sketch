@@ -15,4 +15,5 @@ body{
     border: 5px solid;
     border-color: black;
     display: grid;
+    margin: 25px;
 }
